@@ -1,0 +1,36 @@
+{
+  "name": "architect",
+  "version": "1.0.0",
+  "description": "data retrieval using REST api and mongoDB with noSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsaVelazquez/shim.git"
+  },
+  "keywords": [
+    "API",
+    "architect",
+    "authentication",
+    "RESTful",
+    "API",
+    "Vuejs",
+    "javascript",
+    "postman",
+    "mongoDB"
+  ],
+  "author": "Elsa Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsaVelazquez/shim/issues"
+  },
+  "homepage": "https://github.com/elsaVelazquez/shim#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve": "^11.3.0",
+    "yarn": "^1.21.1"
+  },
+  "devDependencies": {}
+}
