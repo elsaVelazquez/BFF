@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/elsaVelazquez/shim#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serve": "^11.3.0",
     "yarn": "^1.21.1"
   },
